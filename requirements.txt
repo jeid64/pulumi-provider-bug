@@ -1,0 +1,4 @@
+pulumi>=1.0.0
+pulumi-kubernetes>=1.0.0
+pulumi_aws>=1.0.0
+requests
